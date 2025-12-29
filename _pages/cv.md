@@ -20,14 +20,14 @@ Work experience
 ======
 <u></u>
 * [cite_start]**2019 – 2023: Mathematics and Physics Teacher** [cite: 75, 77]
-  * [cite_start]Lycée Scientifique de Kara, Togo [cite: 29, 76]
-  * [cite_start]Duties included: Delivering high school-level instruction in advanced Mathematics (Complex Numbers, Probability) and Physics (Kinematics, Thermodynamics)[cite: 78, 80, 90].
-  * [cite_start]Developed examination-oriented problem sets and facilitated laboratory-style problem-solving sessions[cite: 98, 99].
+  * [cite_start]Lycée Scientifique de Kara, Togo [cite: 29]
+  * [cite_start]Duties included: Delivering high school-level instruction in advanced Mathematics and Physics[cite: 78].
+  * [cite_start]Taught topics including Complex Numbers, Kinematics, Thermodynamics, and Probability[cite: 80, 88, 91, 97].
 
 * [cite_start]**2024 – 2025: Volunteer Graduate Tutor** [cite: 100]
   * [cite_start]École Polytechnique de Lomé, Togo [cite: 101]
   * [cite_start]Duties included: Providing tutorial instruction in inferential statistics and optimization to Master's students in Big Data[cite: 102].
-  * [cite_start]Topics covered: Hypothesis Testing, Likelihood-Based Inference, Lagrange Multipliers, and KKT Conditions[cite: 103, 107, 109, 111].
+  * [cite_start]Topics covered: Hypothesis Testing, Likelihood-Based Inference, and Gradient-Based Optimization[cite: 103, 107, 112].
 
 Skills
 ======
@@ -66,6 +66,6 @@ Teaching
 Service and leadership
 ======
 <u></u>
-* [cite_start]**Google DeepMind Scholar**, AIMS South Africa [cite: 16, 56]
-* [cite_start]**African Union Scholarship**, PAUSTI Kenya [cite: 56, 57]
+* [cite_start]**Google DeepMind Scholar**, AIMS South Africa [cite: 14, 16]
+* [cite_start]**African Union Scholar**, PAUSTI Kenya [cite: 56, 57]
 * [cite_start]**Togolese National Government Scholarship**, Lycée Scientifique de Kara [cite: 30, 58]
