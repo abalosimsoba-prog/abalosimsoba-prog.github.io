@@ -21,7 +21,7 @@ author:
   location         : "Cape Town, South Africa"
   # This fixes the overflow issue by splitting the long name into two lines
   employer: |
-    African Institute for 
+    African Institute for |
     Mathematical Sciences (AIMS)
   email            : "kouyakou@aims.ac.za"
 
