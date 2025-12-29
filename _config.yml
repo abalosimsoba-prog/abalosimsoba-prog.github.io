@@ -14,14 +14,13 @@ author:
   avatar           : "profile.jpg"
   name             : "Kouyakou-Abalo SIMSOBA"
   pronouns         : "he/him"
-  # The '>' symbol ensures this wraps to new lines without overflowing
-  bio: >
-    Google DeepMind Scholar | 
-    M.Sc. AI for Science at 
-    AIMS South Africa
+  # Bio split into two lines to prevent horizontal overflow
+  bio: |
+    Google DeepMind Scholar
+    M.Sc. AI for Science Student
   location         : "Cape Town, South Africa"
-  # This folded block also prevents the institution name from overflowing
-  employer: >
+  # Institution name split into two lines for a perfect sidebar fit
+  employer: |
     African Institute for 
     Mathematical Sciences (AIMS)
   email            : "kouyakou@aims.ac.za"
@@ -52,7 +51,7 @@ talkmap_link             : false
 comments:
   provider               : false 
 
-# Reading Files & Conversion
+# File Management
 include:
   - .htaccess
   - _pages
@@ -78,6 +77,7 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
@@ -137,14 +137,16 @@ defaults:
       author_profile: true
       share: true
 
-# Styling & Plugins
+# Styling
 sass:
   sass_dir: _sass
   style: compressed 
 
+# Technical Output
 permalink: /:categories/:title/
 timezone: Etc/UTC 
 
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-gist
