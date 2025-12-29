@@ -22,11 +22,16 @@ Research Interests
 
 Education
 ======
-* **M.Sc. in Artificial Intelligence for Science** | African Institute for Mathematical Sciences (AIMS), South Africa \
+* **M.Sc. in Artificial Intelligence for Science**
+  African Institute for Mathematical Sciences (AIMS), South Africa
   *Google DeepMind Scholar* | Sept 2025 – Present
-* **Joint M.Sc. in Mathematics (Statistics Option)** | Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI), Kenya \
+
+* **Joint M.Sc. in Mathematics (Statistics Option)**
+  Pan African University Institute for Basic Sciences, Technology and Innovation (PAUSTI), Kenya
   *African Union Scholar* | Apr 2023 – Jun 2025
-* **B.Sc. in Mathematics, Statistics and Socio-economic Applications** | Université de Kara, Togo \
+
+* **B.Sc. in Mathematics, Statistics and Socio-economic Applications**
+  Université de Kara, Togo
   Nov 2018 – July 2021
 
 Recent News
