@@ -8,6 +8,7 @@ description             : "Google DeepMind Scholar | AI for Science Researcher"
 url                     : "https://abalosimsoba-prog.github.io"
 baseurl                 : ""
 repository              : "abalosimsoba-prog/abalosimsoba-prog.github.io"
+repository_search       : false
 
 # Site Author - Sidebar Profile
 author:
