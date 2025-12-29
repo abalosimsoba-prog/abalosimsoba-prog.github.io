@@ -1,28 +1,23 @@
 # Basic Site Settings
 locale                  : "en-US"
-site_theme              : "contrast" # Modern tech theme
+site_theme              : "contrast"
 title                   : "Kouyakou-Abalo SIMSOBA"
 title_separator         : "-"
 name                    : "Kouyakou-Abalo SIMSOBA"
 description             : "Google DeepMind Scholar | AI for Science Researcher"
 url                     : "https://abalosimsoba-prog.github.io"
-baseurl                 : "" 
+baseurl                 : ""
 repository              : "abalosimsoba-prog/abalosimsoba-prog.github.io"
 
 # Site Author - Sidebar Profile
 author:
   avatar           : "profile.jpg"
   name             : "Kouyakou-Abalo SIMSOBA"
-  pronouns         : "he/him"
-  # The '|' symbol forces the text to break exactly where you see it here
   bio: |
     Google DeepMind Scholar
     M.Sc. AI for Science Student
   location         : "Cape Town, South Africa"
-  # This fixes the overflow issue by splitting the long name into two lines
-  employer: |
-    African Institute for |
-    Mathematical Sciences (AIMS)
+  employer         : "AIMS South Africa"
   email            : "kouyakou@aims.ac.za"
 
   # Academic and Professional Links
@@ -35,21 +30,20 @@ author:
 # Publication Category Headings
 publication_category:
   books:
-    title: 'Books'
+    title: "Books"
   manuscripts:
-    title: 'Journal Articles'    
+    title: "Journal Articles"
   conferences:
-    title: 'Conference Papers'
+    title: "Conference Papers"
 
 # Site Settings
-teaser                   : 
-breadcrumbs              : false 
+breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" 
-talkmap_link             : false      
+read_more                : "disabled"
+talkmap_link             : false
 comments:
-  provider               : false 
+  provider               : false
 
 # File Management
 include:
@@ -74,13 +68,13 @@ exclude:
 keep_files:
   - .git
   - .svn
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
 highlighter: rouge
-lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
@@ -140,11 +134,11 @@ defaults:
 # Styling
 sass:
   sass_dir: _sass
-  style: compressed 
+  style: compressed
 
-# Technical Output
+# Output
 permalink: /:categories/:title/
-timezone: Etc/UTC 
+timezone: Etc/UTC
 
 # Plugins
 plugins:
