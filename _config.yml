@@ -1,10 +1,10 @@
 # Basic Site Settings
 locale                  : "en-US"
-site_theme              : "contrast" # High-contrast, modern tech theme
+site_theme              : "contrast"
 title                   : "Kouyakou-Abalo SIMSOBA"
 title_separator         : "-"
-name                    : &name "Kouyakou-Abalo SIMSOBA"
-description             : &description "Google DeepMind Scholar | Artificial Intelligence Researcher"
+name                    : "Kouyakou-Abalo SIMSOBA"
+description             : "Google DeepMind Scholar | Artificial Intelligence Researcher"
 url                     : "https://abalosimsoba-prog.github.io"
 baseurl                 : "" 
 repository              : "abalosimsoba-prog/abalosimsoba-prog.github.io"
@@ -16,26 +16,25 @@ author:
   pronouns         : "he/him"
   bio              : "Google DeepMind Scholar | M.Sc. AI for Science at AIMS South Africa"
   location         : "Cape Town, South Africa"
-  employer         : "African Institute for Mathematical Sciences (AIMS)"
+  # This '|' allows the name to break into two lines in the sidebar
+  employer         : |
+    African Institute for 
+    Mathematical Sciences (AIMS)
   email            : "kouyakou@aims.ac.za"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RtYAMMoAAAAJ"
   orcid            : "https://orcid.org/0009-0005-4050-5040"
+  researchgate     : "https://www.researchgate.net/profile/Kouyakou-Abalo-Simsoba"
   # academia       : 
   # arxiv          : 
-  # researchgate   : 
 
   # Software development
   github           : "Abalo39"
-  # stackoverflow  : 
 
-  # Social media (Commented out until needed)
+  # Social media
   linkedin         : "https://www.linkedin.com/in/abalo-simsoba-803a75244/"
   # twitter        : 
-  # youtube        : 
-  # facebook       : 
-  # instagram      : 
 
 # Publication Category Headings
 publication_category:
@@ -168,15 +167,6 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
-
-whitelist:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
   - jemoji
 
 category_archive:
