@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                  : "en-US"
-site_theme              : "contrast" # High-contrast tech theme
+site_theme              : "contrast"
 title                   : "Kouyakou-Abalo SIMSOBA"
 title_separator         : "-"
 name                    : "Kouyakou-Abalo SIMSOBA"
@@ -14,12 +14,12 @@ author:
   avatar           : "profile.jpg"
   name             : "Kouyakou-Abalo SIMSOBA"
   pronouns         : "he/him"
-  # Bio split into two lines to prevent horizontal overflow
+  # Using '|' forces the site to respect the new lines exactly as written
   bio: |
     Google DeepMind Scholar
-    M.Sc. AI for Science Student
+    M.Sc. AI for Science at
+    AIMS South Africa
   location         : "Cape Town, South Africa"
-  # Institution name split into two lines for a perfect sidebar fit
   employer: |
     African Institute for 
     Mathematical Sciences (AIMS)
