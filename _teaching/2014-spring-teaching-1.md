@@ -1,20 +1,47 @@
 ---
-title: "Teaching experience 1"
+title: "Mathematics and Physics Teacher"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "High School Instruction"
+permalink: /teaching/2019-kara-teaching
+venue: "High School Level"
+date: 2019-01-01
+location: "Kara, Togo"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Delivered high school-level instruction in mathematics and physics to diverse student cohorts. My approach focused on building strong conceptual understanding, analytical reasoning, and systematic problem-solving skills to prepare students for national examinations.
 
-Heading 1
-======
+### Mathematics Courses
+* Probability
+* Combinatorics
+* Set Theory
+* Spatial Geometry
+* Three-Dimensional Geometry
+* Second-Degree Polynomial Functions
+* Homographic Functions
+* Continuity of Functions
+* Differentiability of Functions
+* Arithmetic Sequences
+* Geometric Sequences
+* Complex Numbers
+* Methods of Mathematical Proof
+* Logical Reasoning
 
-Heading 2
-======
+### Physics Courses
+* Kinematics
+* Free Fall
+* Motion under Gravity
+* Mechanical Oscillations
+* Electrical Oscillations
+* Wave Phenomena
+* Wave Propagation
+* Electrostatics
+* Alternating Current
+* RLC Circuits
+* Thermodynamics of Ideal Gases
+* Thermodynamic Processes
 
-Heading 3
-======
+### Instructional Responsibilities
+* Designed examination-oriented problem sets to strengthen quantitative reasoning.
+* Developed supplementary materials and facilitated laboratory-style problem-solving sessions.
+* Guided students through theoretical foundations and applied practice.
+
