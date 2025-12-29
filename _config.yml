@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                  : "en-US"
-site_theme              : "contrast"
+site_theme              : "contrast" # High-contrast tech theme
 title                   : "Kouyakou-Abalo SIMSOBA"
 title_separator         : "-"
 name                    : "Kouyakou-Abalo SIMSOBA"
@@ -14,27 +14,24 @@ author:
   avatar           : "profile.jpg"
   name             : "Kouyakou-Abalo SIMSOBA"
   pronouns         : "he/him"
-  bio              : "Google DeepMind Scholar | M.Sc. AI for Science at AIMS South Africa"
+  # The '>' symbol ensures this wraps to new lines without overflowing
+  bio: >
+    Google DeepMind Scholar | 
+    M.Sc. AI for Science at 
+    AIMS South Africa
   location         : "Cape Town, South Africa"
-  # This '|' allows the name to break into two lines in the sidebar
-  employer         : |
+  # This folded block also prevents the institution name from overflowing
+  employer: >
     African Institute for 
     Mathematical Sciences (AIMS)
   email            : "kouyakou@aims.ac.za"
 
-  # Academic websites
+  # Academic and Professional Links
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RtYAMMoAAAAJ"
   orcid            : "https://orcid.org/0009-0005-4050-5040"
   researchgate     : "https://www.researchgate.net/profile/Kouyakou-Abalo-Simsoba"
-  # academia       : 
-  # arxiv          : 
-
-  # Software development
   github           : "Abalo39"
-
-  # Social media
   linkedin         : "https://www.linkedin.com/in/abalo-simsoba-803a75244/"
-  # twitter        : 
 
 # Publication Category Headings
 publication_category:
@@ -55,7 +52,7 @@ talkmap_link             : false
 comments:
   provider               : false 
 
-# File Management
+# Reading Files & Conversion
 include:
   - .htaccess
   - _pages
@@ -81,23 +78,11 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
 
 # Collections
 collections:
@@ -114,7 +99,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Display Defaults
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -152,16 +137,14 @@ defaults:
       author_profile: true
       share: true
 
-# Styling
+# Styling & Plugins
 sass:
   sass_dir: _sass
   style: compressed 
 
-# Technical Output
 permalink: /:categories/:title/
 timezone: Etc/UTC 
 
-# Plugins
 plugins:
   - jekyll-feed
   - jekyll-gist
