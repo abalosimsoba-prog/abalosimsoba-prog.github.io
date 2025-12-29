@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                  : "en-US"
-site_theme              : "contrast" # Modern high-contrast tech theme
+site_theme              : "contrast" # Modern tech theme
 title                   : "Kouyakou-Abalo SIMSOBA"
 title_separator         : "-"
 name                    : "Kouyakou-Abalo SIMSOBA"
@@ -14,11 +14,12 @@ author:
   avatar           : "profile.jpg"
   name             : "Kouyakou-Abalo SIMSOBA"
   pronouns         : "he/him"
-  # Using '|' to force these onto new lines to fit the narrow sidebar
+  # The '|' symbol forces the text to break exactly where you see it here
   bio: |
     Google DeepMind Scholar
     M.Sc. AI for Science Student
   location         : "Cape Town, South Africa"
+  # This fixes the overflow issue by splitting the long name into two lines
   employer: |
     African Institute for 
     Mathematical Sciences (AIMS)
@@ -50,7 +51,7 @@ talkmap_link             : false
 comments:
   provider               : false 
 
-# File Management & Conversion
+# File Management
 include:
   - .htaccess
   - _pages
@@ -76,6 +77,7 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
@@ -97,7 +99,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Display Defaults
+# Defaults
 defaults:
   - scope:
       path: ""
