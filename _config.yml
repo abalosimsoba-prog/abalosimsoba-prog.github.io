@@ -1,10 +1,10 @@
 # Basic Site Settings
 locale                  : "en-US"
-site_theme              : "contrast"
+site_theme              : "contrast" # Modern high-contrast tech theme
 title                   : "Kouyakou-Abalo SIMSOBA"
 title_separator         : "-"
 name                    : "Kouyakou-Abalo SIMSOBA"
-description             : "Google DeepMind Scholar | Artificial Intelligence Researcher"
+description             : "Google DeepMind Scholar | AI for Science Researcher"
 url                     : "https://abalosimsoba-prog.github.io"
 baseurl                 : "" 
 repository              : "abalosimsoba-prog/abalosimsoba-prog.github.io"
@@ -14,11 +14,10 @@ author:
   avatar           : "profile.jpg"
   name             : "Kouyakou-Abalo SIMSOBA"
   pronouns         : "he/him"
-  # Using '|' forces the site to respect the new lines exactly as written
+  # Using '|' to force these onto new lines to fit the narrow sidebar
   bio: |
     Google DeepMind Scholar
-    M.Sc. AI for Science at
-    AIMS South Africa
+    M.Sc. AI for Science Student
   location         : "Cape Town, South Africa"
   employer: |
     African Institute for 
@@ -51,7 +50,7 @@ talkmap_link             : false
 comments:
   provider               : false 
 
-# File Management
+# File Management & Conversion
 include:
   - .htaccess
   - _pages
@@ -77,7 +76,6 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
@@ -99,7 +97,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults
+# Display Defaults
 defaults:
   - scope:
       path: ""
