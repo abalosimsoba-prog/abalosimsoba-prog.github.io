@@ -2,20 +2,18 @@
 title: "Mathematics and Physics Teacher"
 collection: teaching
 type: "High School Instruction"
-permalink: /teaching/2019-kara-teaching
+permalink: /teaching/high-school-kara
 venue: "High School Level"
 date: 2019-01-01
 location: "Kara, Togo"
 ---
 
-Delivered high school-level instruction in mathematics and physics to diverse student cohorts. My approach focused on building strong conceptual understanding, analytical reasoning, and systematic problem-solving skills to prepare students for national examinations.
+Delivered high school-level instruction in mathematics and physics to diverse student cohorts.
 
 ### Mathematics Courses
-* Probability
-* Combinatorics
+* Probability and Combinatorics
 * Set Theory
-* Spatial Geometry
-* Three-Dimensional Geometry
+* Spatial Geometry (Three-Dimensional)
 * Second-Degree Polynomial Functions
 * Homographic Functions
 * Continuity of Functions
@@ -28,20 +26,9 @@ Delivered high school-level instruction in mathematics and physics to diverse st
 
 ### Physics Courses
 * Kinematics
-* Free Fall
-* Motion under Gravity
-* Mechanical Oscillations
-* Electrical Oscillations
-* Wave Phenomena
-* Wave Propagation
+* Free Fall and Motion under Gravity
+* Mechanical and Electrical Oscillations
+* Wave Phenomena and Propagation
 * Electrostatics
-* Alternating Current
-* RLC Circuits
-* Thermodynamics of Ideal Gases
-* Thermodynamic Processes
-
-### Instructional Responsibilities
-* Designed examination-oriented problem sets to strengthen quantitative reasoning.
-* Developed supplementary materials and facilitated laboratory-style problem-solving sessions.
-* Guided students through theoretical foundations and applied practice.
-
+* Alternating Current and RLC Circuits
+* Thermodynamics (Ideal Gases and Processes)
