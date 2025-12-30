@@ -8,15 +8,9 @@ date: 2019-01-01
 location: "Kara, Togo"
 ---
 
+Delivered instruction in mathematics and physics to diverse student cohorts.
+
 ### Mathematics Courses
 * Probability and Combinatorics
 * Set Theory
 * Spatial Geometry
-* Second-Degree Polynomial Functions
-* Homographic Functions
-
-### Physics Courses
-* Kinematics
-* Free Fall and Motion under Gravity
-* Wave Phenomena
-* Electrostatics
